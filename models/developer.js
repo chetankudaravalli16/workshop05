@@ -2,7 +2,7 @@
 *  Developer model
 *  Describes the characteristics of each attribute in a developer resource.
 *
-* @author Denise Case <denisecase@gmail.com>
+* @author Chetan Kudaravalli
 * @requires mongoose
 *
 */
@@ -14,6 +14,7 @@ const DeveloperSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
+
   email: {
     type: String,
     minlength: 5,
@@ -21,6 +22,7 @@ const DeveloperSchema = new mongoose.Schema({
     required: true,
     unique: true
   },
+  
   given: {
     type: String,
     minlength: 3,

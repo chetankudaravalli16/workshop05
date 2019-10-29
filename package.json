@@ -2,7 +2,7 @@
   "name": "node-express",
   "description": "Express web app using MVC (no views yet)",
   "version": "1.0.0",
-  "author": "Denise Case",
+  "author": "Chetan Kudaravalli",
   "dependencies": {
     "config": "latest",
     "express": "latest",
@@ -36,7 +36,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/denisecase/node-express-mvc"
+    "url": "https://github.com/chetankudaravalli16/workshop05"
   },
   "scripts": {
     "pre": "eslint .\\",

@@ -1,13 +1,32 @@
-[
-  {
-    "_id": 99,
-    "email": "dcase@nwmissouri.edu",
-    "given": "Denise",
-    "family": "Case",
+
+     [
+        {
+    "_id": 150030493,
+    "email": "s537237@nwmissouri.edu",
+    "given": "chetan",
+    "family": "Kudaravalli",
     "city": "Maryville",
     "state": "MO",
     "zip": 64468,
     "country": "USA",
-    "URL": "https://www.nwmissouri.edu/csis/directory/case.htm"
+    "URL": "www.google.com"
+
+    
+        },
+
+  
+  {
+    "_id": 150030497,
+    "email": "s537237@nwmisouri.edu",
+    "given": "cheta",
+    "family": "Kudaraalli",
+    "city": "Maryvlle",
+    "state": "O",
+    "zip": 6448,
+    "country": "SA",
+    "URL": "www.google.com"
   }
+
+
+
 ]
